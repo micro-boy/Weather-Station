@@ -5,8 +5,9 @@
 
 ## 📋 Deskripsi Proyek
 
-
-![Weather Sensor drawio](https://github.com/user-attachments/assets/7ff6aedd-2f7f-4b03-bce3-bd9dc619bef2)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/7ff6aedd-2f7f-4b03-bce3-bd9dc619bef2" width="600">
+</div>
 
 > **⚠️ CATATAN PENTING**: Spesifikasi teknis dan harga hardware yang tercantum dalam dokumentasi ini dapat berubah sewaktu-waktu tergantung ketersediaan komponen di pasaran Indonesia. Fluktuasi harga dan availability stock komponen elektronik, terutama sensor dan microcontroller, sangat dipengaruhi oleh kondisi supply chain global. Disarankan untuk melakukan survey harga terkini dan konfirmasi availability sebelum procurement.
 
